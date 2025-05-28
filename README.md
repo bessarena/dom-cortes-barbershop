@@ -18,6 +18,7 @@ Dom Cortês BarberShop is my first project as a web developer for a real client.
 
 ## 📌 Status
 ✅ Completed
+
 🚀 Open to future improvements as I gain more experience.
 
 ## 📄 License
