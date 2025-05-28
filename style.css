@@ -280,6 +280,9 @@
   gap: 8px;
   color: #fff;
 }
+.footer i {
+  color: #fff;
+}
 
 .whatsapp-button {
   position: fixed;
